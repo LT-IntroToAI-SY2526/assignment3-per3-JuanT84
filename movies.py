@@ -435,4 +435,16 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "Silence of the Lambs",
+        "Jonathan Demme",
+        1991,
+        [
+            "Anthony Hopkins",
+            "Jodie Foster",
+            "Ted Levine",
+            "Brooke Smith",
+            "Scott Glenn"
+        ]
+    )
 ]
